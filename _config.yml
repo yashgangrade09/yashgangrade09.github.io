@@ -42,6 +42,34 @@ people:
     - title: google-plus
       url: #
 
+groups:
+- name: ArIES
+  pic: aries
+  position: Coordinator
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
+
+- name: IEEE Students Chapter
+  pic: ieee
+  position: Member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/141305179222449/
+    - title: globe
+      url: http://www.ieeeiitr.com/
+
+- name: Geek Gazette
+  pic: gg
+  position: Lead Graphic Designer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/geekgazette/
+    - title: globe
+      url: https://geekgazette.org/
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
