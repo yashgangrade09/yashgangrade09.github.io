@@ -1,0 +1,16 @@
+---
+title: Crime Landscape in SLC
+subtitle: Data Visualization
+layout: default
+modal-id: 1
+date: 2018-08-10
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Oct 2018 - Present
+client: Start Bootstrap
+category: Data Visualization
+github: Latest Release
+link: https://github.com/yashgangrade09/dataviscourse-pr-crime-landscape.git
+description: Developing different visualization techniques to view the general crime landscape in Salt Lake City, Utah. Implementing crimes based filters which will be viewed on the Map along with the Line charts about the crimes. Tools used: JavaScript, D3, HTML, CSS, OpenStreetMap API
+---
