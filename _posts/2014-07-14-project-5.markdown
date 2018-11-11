@@ -1,15 +1,17 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Cognitive Radio Learning
+subtitle: Undergraduate Thesis
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Apr 2016 - Apr 2017
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Distributed Learning
+github: Latest Release
+link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
+description: Designed a system with channel selection and access which can effectively adapt to a wide range of traffic load patterns in the primary network. A distributed adaptive learning and access policy and game theory approach was employed. Skills: Python, C++, FPGA
 
 ---

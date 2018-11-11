@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: SimpleDB
+subtitle: A novel Database System
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Aug 2018 - Present
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Database Development
+github: Latest Release
+link: https://github.com/spence521/SimpleDB.git
+description: Working on creating a novel Database System from scratch. Implementing support modules like buffer management engine, disk-based B+ tree indexing engine, query optimizers, support for join, union etc. operators. Tools used: Java, Eclipse Photon.
 
 ---
