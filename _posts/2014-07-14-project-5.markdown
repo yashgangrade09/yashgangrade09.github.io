@@ -13,5 +13,4 @@ category: Distributed Learning
 github: Latest Release
 link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
 description: Designed a system with channel selection and access which can effectively adapt to a wide range of traffic load patterns in the primary network. A distributed adaptive learning and access policy and game theory approach was employed. Skills: Python, C++, FPGA
-
 ---

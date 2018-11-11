@@ -13,5 +13,4 @@ category: Machine Learning
 github: Latest Release
 link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
 description: Built a system which utilizes a combination of multiple linear classifiers to classify N-Dimensional spatial data. Classification accuracies improved by 5-20% as compared to a single classifier. Tools: Python and Libraries
-
 ---

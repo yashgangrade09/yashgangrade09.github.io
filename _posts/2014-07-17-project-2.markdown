@@ -13,5 +13,4 @@ category: Database Development
 github: Latest Release
 link: https://github.com/spence521/SimpleDB.git
 description: Working on creating a novel Database System from scratch. Implementing support modules like buffer management engine, disk-based B+ tree indexing engine, query optimizers, support for join, union etc. operators. Tools used: Java, Eclipse Photon.
-
 ---

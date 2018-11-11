@@ -13,5 +13,4 @@ category: Web Development
 github: Latest Release
 link: https://github.com/yashgangrade09/OpenSpace-Transfer-Functions.git
 description: Worked with the OpenSpace, NASA team on development of transfer functions and color maps for different celestial objects like Planets, Asteroids etc. representing different parameters like Humidity, Temperature etc. Tools used: Python, C++
-
 ---
