@@ -1,17 +1,17 @@
 ---
-title: SimpleDB
-popupTitle: Development of a Database System
-subtitle: Novel Database System
+title: Neural Networks Compression
+popupTitle: Compression of Neural Networks with Gaussian Mixture Priors
+subtitle: Machine Learning
 layout: default
-modal-id: 2
+modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: Aug 2018 - Dec 2018
+project-date: Jan 2018 - Apr 2018
 client: Start Bootstrap
-category: Database Development
+category: Machine Learning
 github: Latest Release
 link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Working on creating a novel Database System from scratch. Implementing support modules like buffer management engine, disk-based B+ tree indexing engine, query optimizers, support for join, union etc. operators. Tools used: Java, Eclipse Photon. 
+description: Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation. 
 ---
