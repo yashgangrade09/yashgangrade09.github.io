@@ -45,7 +45,13 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Welcome to my website</div>
-                <div class="intro-heading">It's gonna be Legendary</div>
+                <div class="intro-tagline">It's gonna be Legendary!</div>
+                                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
                 <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
