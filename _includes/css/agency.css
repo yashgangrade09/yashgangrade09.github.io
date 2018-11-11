@@ -554,7 +554,7 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
-    width: 30%;
+    width: 70%;
 }
 
 @media(min-width:768px) {
