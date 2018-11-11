@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Crime Landscape in Salt Lake City
+subtitle: Data Visualization
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-08-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: Oct 2018 - Present
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+github: Latest Release
+category: Data Visualization
+description: Developing different visualization techniques to view the general crime landscape in Salt Lake City, Utah. Implementing crimes based filters which will be viewed on the Map along with the Line charts about the crimes. 
 
 ---
