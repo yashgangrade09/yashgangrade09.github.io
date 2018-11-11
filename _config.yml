@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: y7kim/agency-jekyll-theme
 title: Welcome to Yash Gangrade's Homepage
 description: Testing
