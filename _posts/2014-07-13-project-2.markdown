@@ -3,7 +3,7 @@ title: Neural Networks Compression
 popupTitle: Compression of Neural Networks with Gaussian Mixture Priors
 subtitle: Machine Learning
 layout: default
-modal-id: 6
+modal-id: 2
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
