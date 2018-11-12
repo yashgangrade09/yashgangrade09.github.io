@@ -12,6 +12,6 @@ project-date: Oct 2018 - Dec 2018
 client: Start Bootstrap
 category: Data Visualization
 github: Latest Release
-link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
+link: https://github.com/yashgangrade09/dataviscourse-pr-crime-landscape.git
 description: Developed different Visualization techniques to demonstrate the general crime patterns over the years in Salt Lake City. Implemented filters to select from particular crime types to show the markers on Map along with line, bar, pie charts to show more information.
 ---
