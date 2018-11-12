@@ -1,6 +1,6 @@
 ---
-title: Neural Networks Compression
-popupTitle: Compression of Neural Networks with Gaussian Mixture Priors
+title: Local Linear Ensembles
+popupTitle: Classification of N-Dimensional Data using combination of Linear Classifiers
 subtitle: Machine Learning
 layout: default
 modal-id: 4
@@ -8,10 +8,10 @@ date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: Jan 2018 - Apr 2018
+project-date: Aug 2017 - Dec 2017
 client: Start Bootstrap
 category: Machine Learning
 github: Latest Release
-link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation. 
+link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
+description: Built a system which utilizes a combination of multiple Linear Classifiers to classify N-Dimensional spatial data. Classification accuracies improved by 5-20 percent as compared to a single classifier. 
 ---
