@@ -293,6 +293,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
+    color: #FED136;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
@@ -309,7 +310,7 @@ header .intro-text .intro-heading {
 }
 header .intro-tagline {
     margin-bottom: 25px;
-    color: #FED136;
+    /*color: #FED136;*/
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
