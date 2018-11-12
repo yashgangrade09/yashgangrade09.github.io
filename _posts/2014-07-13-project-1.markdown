@@ -3,7 +3,7 @@ title: Crime Landscape
 popupTitle: Crime Landscape Visualization in Salt Lake City
 subtitle: Data Visualization
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
