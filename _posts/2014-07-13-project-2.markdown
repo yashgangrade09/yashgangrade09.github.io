@@ -13,5 +13,5 @@ client: Start Bootstrap
 category: Database Development
 github: Latest Release
 link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Developed different Visualization techniques to demonstrate the general crime patterns over the years in Salt Lake City. Implemented filters to select from particular crime types to show the markers on Map along with line, bar, pie charts to show more information.
+description: Working on creating a novel Database System from scratch. Implementing support modules like Buffer Management Engine, Disk Based Bplus tree indexing engine, query optimizers, support for join, union etc. Implementation in Java.
 ---
