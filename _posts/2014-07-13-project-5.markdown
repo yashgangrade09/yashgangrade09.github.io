@@ -1,17 +1,17 @@
 ---
-title: Neural Networks Compression
-popupTitle: Compression of Neural Networks with Gaussian Mixture Priors
-subtitle: Machine Learning
+title: Cognitive Radio
+popupTitle: Distributed Learning and Adaptation in Cognitive Radio
+subtitle: Undergraduate Thesis
 layout: default
 modal-id: 5
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: Jan 2018 - Apr 2018
+project-date: Apr 2016 - Apr 2017
 client: Start Bootstrap
-category: Machine Learning
+category: Distributed Learning
 github: Latest Release
 link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation. 
+description: Designed a system with Channel Selection and Access which can effectively adapt to a wide range of traffic load patterns in the primary network. A distributed learning and access policy along with a game theory approach was employed. Implemented in C.
 ---

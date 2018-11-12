@@ -57,6 +57,11 @@ h6 {
     font-weight: 700;
 }
 
+.popupTitle{
+     font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;   
+}
+
 .img-centered {
     margin: 0 auto;
 }
