@@ -5,7 +5,7 @@ subtitle: Database Dev
 layout: default
 modal-id: 2
 date: 2014-07-15
-img: roundicons.png
+img: simpledb.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: Sept 2018 - Dec 2018

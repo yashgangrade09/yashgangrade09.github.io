@@ -5,7 +5,7 @@ subtitle: Data Analysis
 layout: default
 modal-id: 3
 date: 2014-07-15
-img: roundicons.png
+img: nasa.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: Jan 2018 - Apr 2018

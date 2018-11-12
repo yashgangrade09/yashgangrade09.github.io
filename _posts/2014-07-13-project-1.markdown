@@ -5,7 +5,7 @@ subtitle: Data Viz
 layout: default
 modal-id: 1
 date: 2014-07-15
-img: roundicons.png
+img: crime.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: Oct 2018 - Dec 2018
