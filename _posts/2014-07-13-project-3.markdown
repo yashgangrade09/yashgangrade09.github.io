@@ -13,5 +13,5 @@ client: Start Bootstrap
 category: Data Analysis and Visualization
 github: Latest Release
 link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Worked with the OpenSpace, NASA team on development of transfer functions and color maps for different celestial objects like Planets, Asteroids etc. representing different parameters like Humidity, Temperature etc. Tools used: Python 
+description: Worked with the OpenSpace team from NASA on development of Transfer functions and Color Maps for different celestial objects like Planets, Asteroids etc. These color maps represent different parameters like Humidity, Temperature etc. Implemented in Python and C.
 ---
