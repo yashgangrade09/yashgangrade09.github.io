@@ -46,6 +46,12 @@ a.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
+
+.popupTitle{
+     font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;   
+}
+
 h1,
 h2,
 h3,
@@ -55,11 +61,6 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-}
-
-.popupTitle{
-     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;   
 }
 
 .img-centered {
