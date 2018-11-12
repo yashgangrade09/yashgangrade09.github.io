@@ -5,7 +5,7 @@ subtitle: Undergraduate Thesis
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: roundicons.png
+img: distributed.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: Apr 2016 - Apr 2017
