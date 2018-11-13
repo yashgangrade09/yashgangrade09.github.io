@@ -1,7 +1,7 @@
 ---
 title: Cognitive Radio
 popupTitle: Distributed Learning and Adaptation in Cognitive Radio
-subtitle: Undergraduate Thesis
+subtitle: Distributed Learning
 layout: default
 modal-id: 5
 date: 2014-07-15
