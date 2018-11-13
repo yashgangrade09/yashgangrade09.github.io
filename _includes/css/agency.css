@@ -63,6 +63,15 @@ h6 {
     font-weight: 700;
 }
 
+.resume {
+    background-color: #FED136;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
 .img-centered {
     margin: 0 auto;
 }
