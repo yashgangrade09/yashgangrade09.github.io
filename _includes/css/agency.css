@@ -193,6 +193,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    font-weight: 500;
     color: #{{ site.data.template.color.primary }};
 }
 
