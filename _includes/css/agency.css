@@ -48,8 +48,9 @@ a.active {
 
 
 .popupTitle{
-     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;   
+    text-transform: capitalize;   
+    font-family: {{ site.data.template.font.primary }};
+    font-weight: 700;
 }
 
 h1,
