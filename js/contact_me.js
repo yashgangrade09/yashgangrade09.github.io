@@ -29,7 +29,6 @@ $(function() {
                     email: email,
                     message: message
                 },
-                console.log(name, email, phone, message);
                 cache: false,
                 success: function() {
                     // Success message
