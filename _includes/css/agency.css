@@ -49,8 +49,9 @@ a.active {
 
 .popupTitle{
     text-transform: none;   
-    font-family: {{ site.data.template.font.primary }};
+    text-align: left;
     font-weight: 700;
+    font-family: {{ site.data.template.font.primary }};
 }
 
 h1,
@@ -192,10 +193,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 40px;
     font-weight: 500;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.primary }};
 }
 
