@@ -1,5 +1,5 @@
 <?php
-if(isset($_POST['email'])) {
+if(isset($_POST['submit'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "yashgangrade09@gmail.com";
@@ -72,7 +72,8 @@ if(isset($_POST['email'])) {
 $headers = 'From: '.$email_from."\r\n".
 'Reply-To: '.$email_from."\r\n" .
 'X-Mailer: PHP/' . phpversion();
-mail($email_to, $email_subject, $email_message, $headers);  
+
+mail('yashgangrade09@gmail.com', $email_subject, $email_message, $headers);  
 
 }
 ?>
