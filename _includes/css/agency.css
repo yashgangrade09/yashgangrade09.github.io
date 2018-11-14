@@ -49,7 +49,6 @@ a.active {
 
 .popupTitle{
     text-transform: none;   
-    text-align: left;
     font-weight: 700;
     font-family: {{ site.data.template.font.primary }};
 }
