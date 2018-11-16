@@ -290,6 +290,8 @@ header {
     /*background-image: url('{{ site.baseurl }}/img/header-bg.jpg');*/
     background-color: rgba(0,0,0,0.7);
     background-image: url('{{ site.baseurl }}/img/IMG_4234.jpg');
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
