@@ -374,6 +374,15 @@ section h3.section-subheading {
     font-weight: 400;
     font-family: {{ site.data.template.font.secondary }};
 }
+section h3.section-subheading-intro {
+    margin-bottom: 75px;
+    text-transform: none;
+    color: #000000;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: {{ site.data.template.font.secondary }};
+}
 
 @media(min-width:768px) {
     section {
