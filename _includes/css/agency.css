@@ -294,7 +294,7 @@ header {
     background-attachment: scroll;
     /*background-image: url('{{ site.baseurl }}/img/header-bg.jpg');*/
     background-color: rgba(0,0,0,0.7);
-    background-image: url('{{ site.baseurl }}/img/IMG_4234.JPG');
+    background-image: url('{{ site.baseurl }}/img/IMG_4234.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
