@@ -1,6 +1,7 @@
 url: https://yashgangrade09.github.io
 # baseurl: /agency-jekyll-theme/
-
+plugins:
+  - jekyll-seo-tag
 # Site settings
 title: Yash Gangrade
 email: yashgangrade09@gmail.com
