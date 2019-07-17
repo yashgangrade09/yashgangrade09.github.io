@@ -336,6 +336,16 @@ header .intro-tagline {
     line-height: 50px;
 }
 
+header .intro-tagline2 {
+    margin-bottom: 25px;
+    color: #FED136;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 30px;
+    font-weight: 400;
+    text-shadow: 1px 1px 4px #000000;
+    line-height: 30px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
