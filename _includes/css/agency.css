@@ -340,10 +340,10 @@ header .intro-tagline2 {
     margin-bottom: 25px;
     color: #FED136;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 30px;
-    font-weight: 400;
+    font-size: 35px;
+    font-weight: 500;
     text-shadow: 1px 1px 4px #000000;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 @media(min-width:768px) {
